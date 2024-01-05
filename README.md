@@ -27,6 +27,7 @@
 
 
 ## 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
@@ -53,13 +54,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 📊 GitHub Stats:
+
 [](https://github-readme-stats.vercel.app/api?username=samudraneel05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samudraneel05&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samudraneel05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samudraneel05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=samudraneel05&theme=onestar&no-frame=true" width="800"/>
