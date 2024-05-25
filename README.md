@@ -9,7 +9,6 @@
 </div><h1 align="center">I'm Samudraneel Sarkar</h1>
 <h3 align="center">A computer science student who wants to become a quantitative analyst.</h3>
 <h3 align="center">I'm a Capital Markets and Finance geek.</h3>
-<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/60503578-ac7d-483d-bf6a-0ba07f9b09d7">
 
 - 🔭 I’m currently working on **Machine Learning and Web Development**
 
