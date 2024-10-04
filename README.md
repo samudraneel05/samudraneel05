@@ -10,11 +10,11 @@
 <h3 align="center">A computer science student who wants to become a quantitative analyst.</h3>
 <h3 align="center">I'm a Capital Markets and Finance geek.</h3>
 
-- 🔭 I’m currently working on **Machine Learning and Web Development**
+- 🔭 I’m currently working on **Machine Learning and Generative AI**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Quantitative Math and Finance**
 
-- 👯 I’m looking to collaborate on **Full Stack Development and Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning projects**
 
 - ⚡ Fun fact - **Before I became a CS Engineer, I was briefly enrolled in law school**
 <br><br>
