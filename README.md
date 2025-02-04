@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Generative AI**
 
-- 🌱 I’m currently learning **Quantitative Math and Finance**
+- 🌱 I’m currently learning **CV and GANs in ML**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
