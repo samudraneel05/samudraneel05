@@ -55,7 +55,7 @@
 ![CodeCov](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
+<!--
 ## 📊 GitHub Stats:
 
 [](https://github-readme-stats.vercel.app/api?username=samudraneel05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -64,7 +64,7 @@
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samudraneel05&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 
 ## 🏆 GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=samudraneel05&theme=onestar&no-frame=true" width="800"/>
