@@ -8,7 +8,7 @@
 <!--img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"-->
 </div><h1 align="center">I'm Samudraneel Sarkar</h1>
 <h3 align="center">A CS student and an aspiring software engineer.</h3>
-<h3 align="center">My core interest lies in the field of AI-ML (NLP).</h3>
+<h3 align="center">My core interests are in the fields of AI-ML (NLP) & Finance.</h3>
 
 - 🔭 I’m currently working on **Open Source Projects**
 
