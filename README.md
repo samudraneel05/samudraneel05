@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- ⚡ Fun fact - **Before I became a CS Engineer, I was briefly enrolled in law school**
+- ⚡ Fun fact - **Before I became an engineer, I was briefly enrolled in law school**
 <br><br>
 
 ## 🌐 Socials:
